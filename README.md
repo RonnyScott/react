@@ -1,7 +1,7 @@
 # React.js Fundamentals Assignment
 
 ## Objective
-
+  
 This assignment focuses on applying React.js concepts:
 - Creating functional components
 - Managing state with hooks
